@@ -8,7 +8,11 @@ Approach:
 
 Time Complexity: O(n)
 Space Complexity: O(n)
+
+this is first problem i did on leetcode
 */
+
+
 
 class TwoSum {
     public int[] twoSum(int[] nums, int target) {
@@ -23,3 +27,4 @@ class TwoSum {
     
     }
 }
+
