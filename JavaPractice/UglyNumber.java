@@ -1,3 +1,9 @@
+/*
+
+this is leetcodes UglyNumber Problem
+
+*/
+
 class UglyNumber {
     public boolean isUgly(int n) {
 
