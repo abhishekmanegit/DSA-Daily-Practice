@@ -1,7 +1,7 @@
 package DSAByHarsh.Day4;
 
 import java.util.Arrays;
-
+//Merge Two Array
 public class MergeArr {
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
 
